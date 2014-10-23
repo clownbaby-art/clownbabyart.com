@@ -30,7 +30,7 @@ var parallelism = (function($) { var _ = {
 						centerVertically: true,
 					
 					// Delay (in ms) before showing the reel.
-						introDelay: 600,		
+						introDelay: 300,		
 						
 					// Speed (in ms) at which to fade in reel.
 						introSpeed: 750,
@@ -84,7 +84,7 @@ var parallelism = (function($) { var _ = {
 						scrollZoneWidth: 40,
 						
 					// Delay (in ms) before showing thumbnails.
-						thumbDelay: 1200,
+						thumbDelay: 800,
 						
 					// Spread (in ms) to randomly stagger thumbnails (0 = don't stagger).
 						thumbDelaySpread: 1500,

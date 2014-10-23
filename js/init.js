@@ -60,7 +60,7 @@ var parallelism = (function($) { var _ = {
 						padding: 2,
 						
 					// Padding color.
-						paddingColor: '#4F4837',
+						paddingColor: '#2b2b2b',
 						
 					// If true, reel scroll will reset on page refresh.
 						resetScroll: true,

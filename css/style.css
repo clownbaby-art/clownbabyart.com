@@ -209,10 +209,34 @@
 	}
 		#header h1 {
 			color: black;
-			font-family: "UnifrakturCook"
 		}
 	
 		#header p
 		{
 			opacity: 0.65;
 		}
+
+/**
+ * Additional CSS
+ * for about.php
+ */
+
+.kk_container
+{
+	max-width: 968px;
+	margin: 0 auto;	
+}
+
+.kk_panel
+{
+	background: rgba(255,255,255,0.8);
+	padding: 16px 24px 24px;
+	color: #12151D;
+}
+
+h1.header {
+	font-size: 56px;
+	line-height: 70px;
+	font-family: 'UnifrakturCook';
+	color: black;
+}

@@ -14,6 +14,11 @@
 		line-height: 1.75em;
 	}
 
+	h1,h2,h3,h4,h5,h6
+	{
+		color: white;
+	}
+
 	/* List */
 	
 		ul
@@ -135,3 +140,17 @@
 		-ms-box-sizing: content-box;		
 		box-sizing: content-box;		
 	}
+
+/**
+ * Additional CSS
+ * for about.php
+ */
+
+.kk_container
+{
+}
+
+h1.header
+{
+	color: white;
+}

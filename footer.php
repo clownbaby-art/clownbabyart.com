@@ -3,7 +3,7 @@
         <p>
             <strong>Cl&ouml;wnb&auml;b&yuml;</strong> is Kartigan Kathiravelu, an artist and illustrator based out of Toronto, Canada.
             <br />
-            <a href="#">Get in touch</a>, or read <a href="/about.php">about me</a>.
+            <a href="mailto:clownbabyart@gmail.com">Get in touch</a>, or read <a href="/about.php">about me</a>.
         </p>
     </div>
     <div class="right">

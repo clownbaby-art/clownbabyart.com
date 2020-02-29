@@ -45,7 +45,7 @@
 			{
 				margin-bottom: 0.5em;
 			}
-			
+
 				ul.contact li
 				{
 					margin-left: 1em;
@@ -61,7 +61,7 @@
 		overflow: hidden;
 		-webkit-transition: -webkit-filter 0.25s ease-in-out;
 	}
-	
+
 		#wrapper.overlayed
 		{
 			-webkit-filter: blur(3px);
@@ -81,7 +81,7 @@
 /* Reel                                                                          */
 /*********************************************************************************/
 
-	#reel 
+	#reel
 	{
 		position: relative;
 	}
@@ -109,7 +109,7 @@
 		{
 			content: '';
 			display: inline-block;
-			height: 100%;
+			/* height: 100%; */
 			vertical-align: middle;
 		}
 
@@ -124,14 +124,14 @@
 			font-size: 3em;
 			line-height: 1em;
 		}
-		
+
 		#header p
 		{
 			font-size: 1.25em;
 			line-height: 1.5em;
 			margin: 0.5em 0 0 0;
 		}
-		
+
 /*********************************************************************************/
 /* Footer                                                                        */
 /*********************************************************************************/
@@ -144,19 +144,19 @@
 		width: 100%;
 		overflow: hidden;
 	}
-	
+
 		#footer h2
 		{
 			font-size: 2.25em;
 			margin: 0 0 1em 0;
 		}
-		
+
 		#footer .left
 		{
 			padding: 2em;
 			text-align: left;
 		}
-		
+
 		#footer .right
 		{
 			position: absolute;
@@ -169,7 +169,7 @@
 		#footer .copyright
 		{
 		}
-		
+
 			#footer .copyright li
 			{
 				display: inline-block;
@@ -179,7 +179,7 @@
 				border-left-color: rgba(255,255,255,0.25);
 				line-height: 1em;
 			}
-			
+
 				#footer .copyright li:first-child
 				{
 					border-left: 0;
@@ -198,7 +198,7 @@
 		box-shadow: 0px 0px 0px 10px #fff, 0px 10px 60px 10px rgba(8,11,19,0.55);
 		cursor: default;
 	}
-	
+
 		.poptrox-popup .loader
 		{
 			display: block;
@@ -211,7 +211,7 @@
 			background: url('images/loader.gif');
 			opacity: 0.25;
 		}
-		
+
 		.poptrox-popup .caption
 		{
 			position: absolute;
@@ -226,7 +226,7 @@
 			font-size: 1.25em;
 			color: #fff;
 		}
-		
+
 		.poptrox-popup .nav-next,
 		.poptrox-popup .nav-previous,
 		.poptrox-popup .closer
@@ -248,7 +248,7 @@
 			{
 				opacity: 1.0;
 			}
-		
+
 		.poptrox-popup .nav-next,
 		.poptrox-popup .nav-previous
 		{
@@ -267,7 +267,7 @@
 			font-size: 3em;
 			line-height: 75px;
 		}
-		
+
 		.poptrox-popup .nav-next
 		{
 			right: 0;
@@ -279,7 +279,7 @@
 			{
 				content: '\f105';
 			}
-		
+
 		.poptrox-popup .nav-previous
 		{
 			left: 0;
@@ -291,7 +291,7 @@
 			{
 				content: '\f104';
 			}
-		
+
 		.poptrox-popup .closer
 		{
 			width: 35px;
@@ -306,7 +306,7 @@
 			border-radius: 40px;
 			box-shadow: 0px 0px 0px 1px #fff;
 		}
-		
+
 			.poptrox-popup .closer:before
 			{
 				content: "\00d7";

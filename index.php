@@ -89,35 +89,35 @@
                         <img src="images/thumbs/hobbit.jpg" alt="">
                     </a>
                 </article>
-                
+
                 <article class="item thumb" data-width="348">
                     <h2>Guy Who Is Maybe An Elf</h2>
                     <a href="images/fulls/guywhoismaybeanelf.jpg">
                         <img src="images/thumbs/guywhoismaybeanelf.jpg" alt="">
                     </a>
                 </article>
-                
+
                 <article class="item thumb" data-width="282">
                     <h2>First Print</h2>
                     <a href="images/fulls/firstprint.jpg">
                         <img src="images/thumbs/firstprint.jpg" alt="">
                     </a>
                 </article>
-                
+
                 <article class="item thumb" data-width="384">
                     <h2>Ted's Dead Deck</h2>
                     <a href="images/fulls/tedsdead.jpg">
                         <img src="images/thumbs/tedsdead.jpg" alt="">
                     </a>
                 </article>
-                
+
                 <article class="item thumb" data-width="274">
                     <h2>Screamer</h2>
                     <a href="images/fulls/screamer.jpg">
                         <img src="images/thumbs/screamer.jpg" alt="">
                     </a>
                 </article>
-                
+
                 <article class="item thumb" data-width="282">
                     <h2>Wu-Tang is for the Children</h2>
                     <a href="images/fulls/wutang.jpg">
